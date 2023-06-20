@@ -17,36 +17,31 @@ let data = [
     product: "Smart Watch",
     productrate: "₹2000",
     productpicture: "https://m.media-amazon.com/images/I/91z5KuonXrL._SL1500_.jpg",
-    productRating: "-",
-  },
+    },
   {
     id: "2",
     product: "Anroid Smart Phone",
     productrate: "₹25000",
     productpicture: "https://m.media-amazon.com/images/I/71T49MbnG6L._SL1500_.jpg",
-    productRating: "⭐⭐⭐⭐⭐",
-  },
+     },
   {
     id: "3",
     product: "samsung Television 4K",
     productrate: "₹65000",
     productpicture: "https://m.media-amazon.com/images/I/81+JXgPUDLL._SL1500_.jpg",
-    productRating: "⭐⭐⭐⭐",
-  },
+   },
   {
     id: "4",
     product: "Laptop",
     productrate: "₹75000",
     productpicture: "https://m.media-amazon.com/images/I/61y4yt0L2oL._SL1500_.jpg",
-    productRating: "-",
-  },
+    },
   {
     id: "5",
     product: "Bluetooh Headset",
     productrate: "₹2500",
     productpicture: "https://m.media-amazon.com/images/I/61lFqpgK26L._SL1500_.jpg",
-    productRating: "⭐⭐⭐",
-  },
+    },
 ];
 
 function Card() {

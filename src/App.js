@@ -16,19 +16,19 @@ let data = [
     id: "1",
     product: "Smart Watch",
     amount: "₹2000",
-    url: "https://m.media-amazon.com/images/I/91z5KuonXrL._SL1500_.jpg",
+    url: "https://cdn1.smartprix.com/rx-iOOWCeyOv-w420-h420/lige-smartwatch.jpg",
   },
   {
     id: "2",
     product: "Anroid Smart Phone",
     amount: "₹25000",
-    url: "https://m.media-amazon.com/images/I/71T49MbnG6L._SL1500_.jpg",
+    url: "https://5.imimg.com/data5/NN/PW/XN/SELLER-8587078/11-500x500.jpg",
   },
   {
     id: "3",
-    product: "samsung Television 4K",
+    product: "Television 4K",
     amount: "₹65000",
-    url: "https://m.media-amazon.com/images/I/81+JXgPUDLL._SL1500_.jpg",
+    url: "https://cdn1.smartprix.com/rx-iEotS5pml-w1200-h1200/EotS5pml.jpg",
   },
   {
     id: "4",
@@ -40,7 +40,7 @@ let data = [
     id: "5",
     product: "Bluetooh Headset",
     amount: "₹2500",
-    url: "https://m.media-amazon.com/images/I/61lFqpgK26L._SL1500_.jpg",
+    url: "https://shopatsc.com/cdn/shop/products/WF-C500-black-1.jpg?v=1641808702",
   },
 ];
 
